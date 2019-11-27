@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Objetive}{4}{0}{2}
+\beamer@sectionintoc {3}{Epidemical Model}{6}{0}{3}
+\beamer@sectionintoc {4}{Controlled Model}{9}{0}{4}
+\beamer@subsectionintoc {4}{1}{Plant model}{9}{0}{4}
